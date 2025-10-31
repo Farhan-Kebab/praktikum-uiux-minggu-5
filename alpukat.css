@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(0, 0, 139); color: white;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+p{
+    text-align: justify;
+    width: fit-content;
+}
+.img {
+    border: 3px solid #ffffff;
+    border-radius: 25px;
+    display: block;
+    width: 23%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.jus {
+    width: 23%;
+}
+.alputam  {
+    border: 1px;
+    height: auto;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foto {
+    background-color: black;
+}
+.foto img{
+    width: 23%;
+    text-align: center;
+}
+.uiiai {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cod {
+    margin: auto;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+    padding: 10px 15px;
+    color: blue;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+.cod p {
+    text-align: center;
+}
+.promo {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#tombol {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid whitesmoke;
+    background-color: yellow;
+    color: red;
+}
